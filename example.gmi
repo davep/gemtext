@@ -1,0 +1,19 @@
+# This is a heading
+
+## This is a sub-heading
+
+### This is a sub-sub-heading
+
+=> gemini://davep.gemcities.com/ Dave's test capsule
+
+> This is a deep and meaningful quote
+
+```
+Here is some pre-formatted text.
+
+Here's some more of that text.
+```
+
+* One
+* Two
+* Three
