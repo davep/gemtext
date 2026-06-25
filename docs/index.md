@@ -1,6 +1,6 @@
 ## Introduction
 
-`gemtext` is a small and simply library that provides code for parsing [the
+`gemtext` is a small and simple library that provides code for parsing [the
 hypertext markup language of the Gemini
 project](https://geminiprotocol.net/docs/gemtext-specification.gmi).
 
